@@ -1,0 +1,1 @@
+Código feito para inverter a ordem dos caracteres de um string. Para isso ser feito primeiro foi definida a string "Job-Rotation" mas também criamos uma string sem valor algum. Em seguida usa-se um loop for para iterar pela string definida como "Job-Rotation" de trás para frente, começando assim do ultimo caractere para o primeiro.

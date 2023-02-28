@@ -10,3 +10,4 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
+

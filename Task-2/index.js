@@ -1,8 +1,8 @@
 function calc() {
-    let value = prompt("Digite um número:");
     let soma = 0;
     let N1 = 0;
     let N2 = 1;
+    let value = prompt("Digite um número:");
     
     while (value > soma) {
         soma = N1 + N2;
